@@ -1,0 +1,5 @@
+temperatures
+55
+70
+82
+93
