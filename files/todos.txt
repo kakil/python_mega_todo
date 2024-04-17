@@ -2,11 +2,9 @@ Punt
 Add A New Member
 Pass
 Fix Computer
-Go To Store
+ todaysGo To Store
 Get The Car
-Turn Lights Off
-Test Code
+Turn off the lights
 Squat
 Benchpress
-New Todo
-Launch rocket
+Launch rocketTest
