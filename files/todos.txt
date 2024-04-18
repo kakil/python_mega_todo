@@ -1,10 +1,6 @@
-Punt
 Add A New Member
-Pass
 Fix Computer
- todaysGo To Store
-Get The Car
+Go To Store
 Turn off the lights
 Squat
-Benchpress
 Launch rocketTest
