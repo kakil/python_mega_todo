@@ -12,7 +12,7 @@ def run_todo():
         user_action = input(user_prompt)
         user_action = user_action.strip()
 
-        if user_action.startswith('add') or user_action.startswith('new'):
+        if user_action.startswith('add'):
             todo = user_action[4:] + '\n'
 
             todos = functions.get_todos('files/todos.txt')
