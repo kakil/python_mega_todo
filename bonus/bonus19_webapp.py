@@ -17,3 +17,13 @@ if camera_image:
     # Render the grayscale image on the webpage
     st.image(gray_img)
 
+st.write("<br>", unsafe_allow_html=True)
+st.text("Upload Image")
+upload_image = st.file_uploader("Upload Image")
+
+if upload_image:
+
+    img = Image.open(upload_image)
+    gray_img = img.convert("L")
+    st.image(gray_img)
+
